@@ -1,0 +1,3 @@
+[submodule "deep-learning-books"]
+	path = deep-learning-books
+	url = git@github.com:see-c/deep-learning-books.git
